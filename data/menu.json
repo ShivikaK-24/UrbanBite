@@ -1,0 +1,3695 @@
+{
+  "restaurant": {
+    "name": "UrbanBite",
+    "currency": "INR",
+    "tax_rate": 0.05,
+    "catalog_version": "1.0"
+  },
+  "items": [
+    {
+      "id": "VS001",
+      "name": "Paneer Tikka",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "VS002",
+      "name": "Palak Patta Chaat",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 205,
+      "variants": []
+    },
+    {
+      "id": "VS003",
+      "name": "Dahi Ke Sholay",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 435,
+      "variants": []
+    },
+    {
+      "id": "VS004",
+      "name": "Mushroom Tikka",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 445,
+      "variants": []
+    },
+    {
+      "id": "VS005",
+      "name": "Achari Chaap Roll",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 295,
+      "variants": []
+    },
+    {
+      "id": "VS006",
+      "name": "Malai Chaap Roll",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 295,
+      "variants": []
+    },
+    {
+      "id": "VS007",
+      "name": "Paneer Tikka Roll",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "VS008",
+      "name": "Chaap Platter",
+      "category": "Food",
+      "subcategory": "Veg Starters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "NVS001",
+      "name": "Bhatti Chicken Tikka",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 525,
+      "variants": []
+    },
+    {
+      "id": "NVS002",
+      "name": "Chicken Malai Tikka",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 525,
+      "variants": []
+    },
+    {
+      "id": "NVS003",
+      "name": "Tandoori Chicken",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 510
+        },
+        {
+          "name": "Full",
+          "price": 760
+        }
+      ]
+    },
+    {
+      "id": "NVS004",
+      "name": "Bhatti Chicken",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 510
+        },
+        {
+          "name": "Full",
+          "price": 760
+        }
+      ]
+    },
+    {
+      "id": "NVS005",
+      "name": "Mutton Seekh Kabab",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 525,
+      "variants": []
+    },
+    {
+      "id": "NVS006",
+      "name": "Chicken Tikka Roll",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 295,
+      "variants": []
+    },
+    {
+      "id": "NVS007",
+      "name": "Chicken Malai Tikka Roll",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 305,
+      "variants": []
+    },
+    {
+      "id": "NVS008",
+      "name": "Chicken Seekh Roll",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 290,
+      "variants": []
+    },
+    {
+      "id": "NVS009",
+      "name": "Mutton Seekh Roll",
+      "category": "Food",
+      "subcategory": "Non-Veg Starters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 305,
+      "variants": []
+    },
+    {
+      "id": "BR001",
+      "name": "Tandoori Roti",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 45,
+      "variants": []
+    },
+    {
+      "id": "BR002",
+      "name": "Butter Roti",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 55,
+      "variants": []
+    },
+    {
+      "id": "BR003",
+      "name": "Butter Naan",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 90,
+      "variants": []
+    },
+    {
+      "id": "BR004",
+      "name": "Pudina Paratha",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 90,
+      "variants": []
+    },
+    {
+      "id": "BR005",
+      "name": "Plain Naan",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 70,
+      "variants": []
+    },
+    {
+      "id": "BR006",
+      "name": "Butter Garlic Naan",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 90,
+      "variants": []
+    },
+    {
+      "id": "BR007",
+      "name": "Stuffed Parantha",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 110,
+      "variants": []
+    },
+    {
+      "id": "BR008",
+      "name": "Rumali Roti",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 45,
+      "variants": []
+    },
+    {
+      "id": "BR009",
+      "name": "Mirchi Paratha",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 90,
+      "variants": []
+    },
+    {
+      "id": "BR010",
+      "name": "Lachcha Paratha",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 85,
+      "variants": []
+    },
+    {
+      "id": "BR011",
+      "name": "Missi Roti",
+      "category": "Food",
+      "subcategory": "Breads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 50,
+      "variants": []
+    },
+    {
+      "id": "SA001",
+      "name": "Honey Chilli Potato",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 405,
+      "variants": []
+    },
+    {
+      "id": "SA002",
+      "name": "Crispy Corn",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 395,
+      "variants": []
+    },
+    {
+      "id": "SA003",
+      "name": "Kung Pao Chicken",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 505,
+      "variants": []
+    },
+    {
+      "id": "SA004",
+      "name": "Salt N Pepper",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 395,
+      "variants": []
+    },
+    {
+      "id": "SA005",
+      "name": "Basil Chicken",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 505,
+      "variants": []
+    },
+    {
+      "id": "SA006",
+      "name": "Spring Roll",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 395,
+      "variants": []
+    },
+    {
+      "id": "SA007",
+      "name": "OG Chilli Paneer",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "SA008",
+      "name": "OG Chilli Chicken",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 505,
+      "variants": []
+    },
+    {
+      "id": "SA009",
+      "name": "Mushroom Cheese Cigar Roll",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "SA010",
+      "name": "Manchurian Veg",
+      "category": "Food",
+      "subcategory": "Asian Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "DM001",
+      "name": "Veg Dimsums",
+      "category": "Food",
+      "subcategory": "Dimsums",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 410,
+      "variants": []
+    },
+    {
+      "id": "DM002",
+      "name": "Chilli Oil Dimsums",
+      "category": "Food",
+      "subcategory": "Dimsums",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 375,
+      "variants": []
+    },
+    {
+      "id": "DM003",
+      "name": "Chicken Dimsums",
+      "category": "Food",
+      "subcategory": "Dimsums",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "DM004",
+      "name": "Broccoli & Chestnut Dimsums",
+      "category": "Food",
+      "subcategory": "Dimsums",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 390,
+      "variants": []
+    },
+    {
+      "id": "PA001",
+      "name": "Aglio Olio",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 480
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 520
+        }
+      ]
+    },
+    {
+      "id": "PA002",
+      "name": "Risotto",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 490
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 530
+        }
+      ]
+    },
+    {
+      "id": "PA003",
+      "name": "Alfredo Sauce",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 510
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 560
+        }
+      ]
+    },
+    {
+      "id": "PA004",
+      "name": "Mix Sauce",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 510
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 560
+        }
+      ]
+    },
+    {
+      "id": "PA005",
+      "name": "Arrabiata Sauce",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 510
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 560
+        }
+      ]
+    },
+    {
+      "id": "PA006",
+      "name": "Pesto Sauce",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 510
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 560
+        }
+      ]
+    },
+    {
+      "id": "PA007",
+      "name": "Mushroom Ragu Sauce",
+      "category": "Food",
+      "subcategory": "Pasta",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Vegetarian",
+          "price": 500
+        },
+        {
+          "name": "Non-Vegetarian",
+          "price": 550
+        }
+      ]
+    },
+    {
+      "id": "BU001",
+      "name": "Veg Burger",
+      "category": "Food",
+      "subcategory": "Burgers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 320,
+      "variants": []
+    },
+    {
+      "id": "BU002",
+      "name": "Double Patty Chicken Burger",
+      "category": "Food",
+      "subcategory": "Burgers",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 380,
+      "variants": []
+    },
+    {
+      "id": "VM001",
+      "name": "Dal Makhani",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 430,
+      "variants": []
+    },
+    {
+      "id": "VM002",
+      "name": "Yellow Dal",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 405,
+      "variants": []
+    },
+    {
+      "id": "VM003",
+      "name": "Pav Bhaji",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 290,
+      "variants": []
+    },
+    {
+      "id": "VM004",
+      "name": "Paneer Bhurji",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 505,
+      "variants": []
+    },
+    {
+      "id": "VM005",
+      "name": "Paneer Butter Masala",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 505,
+      "variants": []
+    },
+    {
+      "id": "VM006",
+      "name": "Shahi Paneer",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 465,
+      "variants": []
+    },
+    {
+      "id": "VM007",
+      "name": "Tawa Chaap Masala",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 485,
+      "variants": []
+    },
+    {
+      "id": "VM008",
+      "name": "Paneer Mushroom Bhurji",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 515,
+      "variants": []
+    },
+    {
+      "id": "VM009",
+      "name": "Kadhai Paneer",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 480,
+      "variants": []
+    },
+    {
+      "id": "VM010",
+      "name": "Chana Masala",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 425,
+      "variants": []
+    },
+    {
+      "id": "VM011",
+      "name": "Paneer Tikka Masala",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 405,
+      "variants": []
+    },
+    {
+      "id": "VM012",
+      "name": "Mix Veg",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 485,
+      "variants": []
+    },
+    {
+      "id": "VM013",
+      "name": "Malai Kofta",
+      "category": "Food",
+      "subcategory": "Veg Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 520,
+      "variants": []
+    },
+    {
+      "id": "CM001",
+      "name": "Butter Chicken",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 495
+        },
+        {
+          "name": "Full",
+          "price": 685
+        }
+      ]
+    },
+    {
+      "id": "CM002",
+      "name": "Chicken Tikka Masala",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 495
+        },
+        {
+          "name": "Full",
+          "price": 685
+        }
+      ]
+    },
+    {
+      "id": "CM003",
+      "name": "Handi Chicken",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 495
+        },
+        {
+          "name": "Full",
+          "price": 685
+        }
+      ]
+    },
+    {
+      "id": "CM004",
+      "name": "Kadhai Chicken",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 495
+        },
+        {
+          "name": "Full",
+          "price": 685
+        }
+      ]
+    },
+    {
+      "id": "CM005",
+      "name": "Egg Curry",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 370,
+      "variants": []
+    },
+    {
+      "id": "CM006",
+      "name": "Tawa Chicken",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 495
+        },
+        {
+          "name": "Full",
+          "price": 685
+        }
+      ]
+    },
+    {
+      "id": "CM007",
+      "name": "Chicken Curry",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Half",
+          "price": 495
+        },
+        {
+          "name": "Full",
+          "price": 685
+        }
+      ]
+    },
+    {
+      "id": "CM008",
+      "name": "Keema Mutton",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 595,
+      "variants": []
+    },
+    {
+      "id": "CM009",
+      "name": "Mutton Curry",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 580,
+      "variants": []
+    },
+    {
+      "id": "CM010",
+      "name": "Rogan Josh",
+      "category": "Food",
+      "subcategory": "Chicken & Mutton Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 580,
+      "variants": []
+    },
+    {
+      "id": "EU001",
+      "name": "Lemon Rosemary Chicken",
+      "category": "Food",
+      "subcategory": "European Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 595,
+      "variants": []
+    },
+    {
+      "id": "EU002",
+      "name": "Grilled Chicken Breast",
+      "category": "Food",
+      "subcategory": "European Mains",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 570,
+      "variants": []
+    },
+    {
+      "id": "EU003",
+      "name": "AU Gratin",
+      "category": "Food",
+      "subcategory": "European Mains",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 490,
+      "variants": []
+    },
+    {
+      "id": "SF001",
+      "name": "Fish & Chips",
+      "category": "Food",
+      "subcategory": "Seafood",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 690,
+      "variants": []
+    },
+    {
+      "id": "SF002",
+      "name": "Chilli Fish",
+      "category": "Food",
+      "subcategory": "Seafood",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 560,
+      "variants": []
+    },
+    {
+      "id": "SF003",
+      "name": "Jumbo Fried Prawns",
+      "category": "Food",
+      "subcategory": "Seafood",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 690,
+      "variants": []
+    },
+    {
+      "id": "SF004",
+      "name": "Lemon Fish",
+      "category": "Food",
+      "subcategory": "Seafood",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 560,
+      "variants": []
+    },
+    {
+      "id": "SF005",
+      "name": "Grilled Fish in Lemon Butter Sauce",
+      "category": "Food",
+      "subcategory": "Seafood",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 690,
+      "variants": []
+    },
+    {
+      "id": "RI001",
+      "name": "Plain Rice",
+      "category": "Food",
+      "subcategory": "Rice & Biryani",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "RI002",
+      "name": "Jeera Rice",
+      "category": "Food",
+      "subcategory": "Rice & Biryani",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 270,
+      "variants": []
+    },
+    {
+      "id": "RI003",
+      "name": "Veg Pulao",
+      "category": "Food",
+      "subcategory": "Rice & Biryani",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 360,
+      "variants": []
+    },
+    {
+      "id": "RI004",
+      "name": "Dum Chicken Biryani",
+      "category": "Food",
+      "subcategory": "Rice & Biryani",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 485,
+      "variants": []
+    },
+    {
+      "id": "RI005",
+      "name": "Dum Mutton Biryani",
+      "category": "Food",
+      "subcategory": "Rice & Biryani",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 525,
+      "variants": []
+    },
+    {
+      "id": "SD001",
+      "name": "Green Salads",
+      "category": "Food",
+      "subcategory": "Sides & Salads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "SD002",
+      "name": "Cream Salads",
+      "category": "Food",
+      "subcategory": "Sides & Salads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "SD003",
+      "name": "Papad",
+      "category": "Food",
+      "subcategory": "Sides & Salads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 60,
+      "variants": []
+    },
+    {
+      "id": "SD004",
+      "name": "Curd",
+      "category": "Food",
+      "subcategory": "Sides & Salads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 80,
+      "variants": []
+    },
+    {
+      "id": "SD005",
+      "name": "Boondi Raita",
+      "category": "Food",
+      "subcategory": "Sides & Salads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 130,
+      "variants": []
+    },
+    {
+      "id": "SD006",
+      "name": "Pineapple Raita",
+      "category": "Food",
+      "subcategory": "Sides & Salads",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "AP001",
+      "name": "Chicken Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 499,
+      "variants": []
+    },
+    {
+      "id": "AP002",
+      "name": "Veg Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 399,
+      "variants": []
+    },
+    {
+      "id": "AP003",
+      "name": "Chilli Paneer Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 480,
+      "variants": []
+    },
+    {
+      "id": "AP004",
+      "name": "Manchurian Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 399
+        },
+        {
+          "name": "Chicken",
+          "price": 499
+        }
+      ]
+    },
+    {
+      "id": "AP005",
+      "name": "Basil Chicken Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 499,
+      "variants": []
+    },
+    {
+      "id": "AP006",
+      "name": "Fish Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 550,
+      "variants": []
+    },
+    {
+      "id": "AP007",
+      "name": "Prawn Platter",
+      "category": "Food",
+      "subcategory": "Asian Platters",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 560,
+      "variants": []
+    },
+    {
+      "id": "NA001",
+      "name": "Egg Noodles",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 345
+        }
+      ]
+    },
+    {
+      "id": "NA002",
+      "name": "Veg Fried Rice",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 355
+        }
+      ]
+    },
+    {
+      "id": "NA003",
+      "name": "Chicken Noodles",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 375
+        }
+      ]
+    },
+    {
+      "id": "NA004",
+      "name": "Egg Fried Rice",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 355
+        }
+      ]
+    },
+    {
+      "id": "NA005",
+      "name": "Schezwan Fried Rice",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 305
+        },
+        {
+          "name": "Chicken",
+          "price": 395
+        }
+      ]
+    },
+    {
+      "id": "NA006",
+      "name": "Chicken Fried Rice",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 385
+        }
+      ]
+    },
+    {
+      "id": "NA007",
+      "name": "Chicken in Hot Garlic Sauce",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 525
+        }
+      ]
+    },
+    {
+      "id": "NA008",
+      "name": "Chicken Sweet & Sour",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Regular",
+          "price": 525
+        }
+      ]
+    },
+    {
+      "id": "NA009",
+      "name": "Singapuri Street Style Noodles",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 330
+        },
+        {
+          "name": "Chicken",
+          "price": 350
+        }
+      ]
+    },
+    {
+      "id": "NA010",
+      "name": "Ginger Garlic Noodles",
+      "category": "Food",
+      "subcategory": "Noodles & Asian Rice",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": false,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 330
+        },
+        {
+          "name": "Chicken",
+          "price": 390
+        }
+      ]
+    },
+    {
+      "id": "ES001",
+      "name": "Fries",
+      "category": "Food",
+      "subcategory": "European Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "ES002",
+      "name": "Bruschetta",
+      "category": "Food",
+      "subcategory": "European Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 440,
+      "variants": []
+    },
+    {
+      "id": "ES003",
+      "name": "Garlic Breads",
+      "category": "Food",
+      "subcategory": "European Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 240,
+      "variants": []
+    },
+    {
+      "id": "ES004",
+      "name": "Mexican Nachos",
+      "category": "Food",
+      "subcategory": "European Small Plates",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 330,
+      "variants": []
+    },
+    {
+      "id": "PZ001",
+      "name": "Four Cheese",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 550,
+      "variants": []
+    },
+    {
+      "id": "PZ002",
+      "name": "Margherita",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 550,
+      "variants": []
+    },
+    {
+      "id": "PZ003",
+      "name": "Fresh Farm",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 550,
+      "variants": []
+    },
+    {
+      "id": "PZ004",
+      "name": "Spinach Corn",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 550,
+      "variants": []
+    },
+    {
+      "id": "PZ005",
+      "name": "Paneer Tikka Pizza",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 550,
+      "variants": []
+    },
+    {
+      "id": "PZ006",
+      "name": "BBQ Chicken",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 590,
+      "variants": []
+    },
+    {
+      "id": "PZ007",
+      "name": "Pesto Chicken",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": false,
+      "alcoholic": false,
+      "base_price": 590,
+      "variants": []
+    },
+    {
+      "id": "PZ008",
+      "name": "Pesto Paneer",
+      "category": "Food",
+      "subcategory": "Pizzas",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 540,
+      "variants": []
+    },
+    {
+      "id": "DE001",
+      "name": "Tiramisu",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 200,
+      "variants": []
+    },
+    {
+      "id": "DE002",
+      "name": "New York Cheesecake",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 200,
+      "variants": []
+    },
+    {
+      "id": "DE003",
+      "name": "Lotus Biscoff Cheesecake",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 240,
+      "variants": []
+    },
+    {
+      "id": "DE004",
+      "name": "Chocolate Fudge Brownie",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "DE005",
+      "name": "Strawberry Ice Cream",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "DE006",
+      "name": "Vanilla Ice Cream",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "DE007",
+      "name": "Chocolate Ice Cream",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "DE008",
+      "name": "Coffee Walnut Ice Cream",
+      "category": "Food",
+      "subcategory": "Desserts & Ice Creams",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "SH001",
+      "name": "Mix Berry Shake",
+      "category": "Beverages",
+      "subcategory": "Shakes",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "SH002",
+      "name": "Belgian Chocolate Shake",
+      "category": "Beverages",
+      "subcategory": "Shakes",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "SH003",
+      "name": "Oreo Shake",
+      "category": "Beverages",
+      "subcategory": "Shakes",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "SH004",
+      "name": "Fresh Mango Almond",
+      "category": "Beverages",
+      "subcategory": "Shakes",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "SH005",
+      "name": "Banana Caramel Almond",
+      "category": "Beverages",
+      "subcategory": "Shakes",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "CO001",
+      "name": "Lemon Mojito",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 230,
+      "variants": []
+    },
+    {
+      "id": "CO002",
+      "name": "Mango Berries",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CO003",
+      "name": "Water Melon",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 240,
+      "variants": []
+    },
+    {
+      "id": "CO004",
+      "name": "Aam Panna",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 230,
+      "variants": []
+    },
+    {
+      "id": "CO005",
+      "name": "Orange Kaffir Lime",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CO006",
+      "name": "Mint & Cucumber",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CO007",
+      "name": "Fresh Passion Fruit",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 230,
+      "variants": []
+    },
+    {
+      "id": "CO008",
+      "name": "Green Apple Fizz",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 230,
+      "variants": []
+    },
+    {
+      "id": "CO009",
+      "name": "Fresh Lime Soda/Water",
+      "category": "Beverages",
+      "subcategory": "Coolers",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "TE001",
+      "name": "Black Tea",
+      "category": "Beverages",
+      "subcategory": "Tea / Iced Tea",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "TE002",
+      "name": "Green Tea",
+      "category": "Beverages",
+      "subcategory": "Tea / Iced Tea",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "TE003",
+      "name": "Lemon Tea",
+      "category": "Beverages",
+      "subcategory": "Tea / Iced Tea",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 210,
+      "variants": []
+    },
+    {
+      "id": "TE004",
+      "name": "Masala Tea",
+      "category": "Beverages",
+      "subcategory": "Tea / Iced Tea",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "TE005",
+      "name": "Peach Iced Tea",
+      "category": "Beverages",
+      "subcategory": "Tea / Iced Tea",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 210,
+      "variants": []
+    },
+    {
+      "id": "AD001",
+      "name": "Diet Coke",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "AD002",
+      "name": "Ginger Ale",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 200,
+      "variants": []
+    },
+    {
+      "id": "AD003",
+      "name": "Tonic Water",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "AD004",
+      "name": "Coke Zero",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "AD005",
+      "name": "Red Bull",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "AD006",
+      "name": "Coke/Sprite/Fanta/Limca",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 110,
+      "variants": []
+    },
+    {
+      "id": "AD007",
+      "name": "Normal Coke Can",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 110,
+      "variants": []
+    },
+    {
+      "id": "AD008",
+      "name": "Juice",
+      "category": "Beverages",
+      "subcategory": "Aerated Drinks",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 120,
+      "variants": []
+    },
+    {
+      "id": "CF001",
+      "name": "Cappuccino",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CF002",
+      "name": "Latte",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CF003",
+      "name": "Mocha",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CF004",
+      "name": "Americano",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "CF005",
+      "name": "Espresso",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 150,
+      "variants": []
+    },
+    {
+      "id": "CF006",
+      "name": "White Cappuccino",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "CF007",
+      "name": "Iced Americano",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CF008",
+      "name": "Iced Latte",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CF009",
+      "name": "Tiramisu Coffee",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "CF010",
+      "name": "Hot Chocolate",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "CF011",
+      "name": "Hazelnut Coffee",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "CF012",
+      "name": "Classic Coffee",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 275,
+      "variants": []
+    },
+    {
+      "id": "CF013",
+      "name": "Matcha Latte",
+      "category": "Beverages",
+      "subcategory": "Coffee & Matcha",
+      "description": "",
+      "vegetarian": true,
+      "alcoholic": false,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "AL001",
+      "name": "Old Monk",
+      "category": "Alcohol",
+      "subcategory": "Rum",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 140,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "id": "AL002",
+      "name": "Bacardi White",
+      "category": "Alcohol",
+      "subcategory": "Rum",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 180,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 180
+        }
+      ]
+    },
+    {
+      "id": "AL003",
+      "name": "Bacardi Black",
+      "category": "Alcohol",
+      "subcategory": "Rum",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 140,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "id": "AL004",
+      "name": "Captain Morgan",
+      "category": "Alcohol",
+      "subcategory": "Rum",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 150,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "AL005",
+      "name": "Baileys",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 240,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 240
+        }
+      ]
+    },
+    {
+      "id": "AL006",
+      "name": "Kahlua",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 200,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": "AL007",
+      "name": "Cointreau",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 485,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 485
+        }
+      ]
+    },
+    {
+      "id": "AL008",
+      "name": "Sambuca",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 335,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 335
+        }
+      ]
+    },
+    {
+      "id": "AL009",
+      "name": "Peach Schnapps",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 335,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 335
+        }
+      ]
+    },
+    {
+      "id": "AL010",
+      "name": "Jagermeister",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 365,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 365
+        }
+      ]
+    },
+    {
+      "id": "AL011",
+      "name": "Cafe Patron",
+      "category": "Alcohol",
+      "subcategory": "Liqueurs & Digestives",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 520,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 520
+        }
+      ]
+    },
+    {
+      "id": "AL012",
+      "name": "Martini Dry / Blanco & Rosso",
+      "category": "Alcohol",
+      "subcategory": "Aperitifs",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 200,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "id": "AL013",
+      "name": "Campari",
+      "category": "Alcohol",
+      "subcategory": "Aperitifs",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 250,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "id": "AL014",
+      "name": "Aperol",
+      "category": "Alcohol",
+      "subcategory": "Aperitifs",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 230,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 230
+        }
+      ]
+    },
+    {
+      "id": "AL015",
+      "name": "Xenta Absinta",
+      "category": "Alcohol",
+      "subcategory": "Aperitifs",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 300,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "id": "AL016",
+      "name": "Hennessy VS",
+      "category": "Alcohol",
+      "subcategory": "Cognac",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 450,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 450
+        }
+      ]
+    },
+    {
+      "id": "AL017",
+      "name": "Hennessy XO",
+      "category": "Alcohol",
+      "subcategory": "Cognac",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 900,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 900
+        }
+      ]
+    },
+    {
+      "id": "AL018",
+      "name": "Corralejo Blanco",
+      "category": "Alcohol",
+      "subcategory": "Tequila / Mezcal",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 650,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 650
+        }
+      ]
+    },
+    {
+      "id": "AL019",
+      "name": "Patron Blanco",
+      "category": "Alcohol",
+      "subcategory": "Tequila / Mezcal",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 545,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 545
+        }
+      ]
+    },
+    {
+      "id": "AL020",
+      "name": "Sauza Silver",
+      "category": "Alcohol",
+      "subcategory": "Tequila / Mezcal",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 220,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 220
+        }
+      ]
+    },
+    {
+      "id": "AL021",
+      "name": "Sauza Gold",
+      "category": "Alcohol",
+      "subcategory": "Tequila / Mezcal",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 240,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 240
+        }
+      ]
+    },
+    {
+      "id": "AL022",
+      "name": "Beefeater",
+      "category": "Alcohol",
+      "subcategory": "Gin",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 150,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "id": "AL023",
+      "name": "Bombay Sapphire",
+      "category": "Alcohol",
+      "subcategory": "Gin",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 215,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 215
+        }
+      ]
+    },
+    {
+      "id": "AL024",
+      "name": "Hendrick's",
+      "category": "Alcohol",
+      "subcategory": "Gin",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 395,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 395
+        }
+      ]
+    },
+    {
+      "id": "AL025",
+      "name": "Kamikaze",
+      "category": "Alcohol",
+      "subcategory": "Shooters",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 300,
+      "variants": [
+        {
+          "name": "Shot",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "id": "AL026",
+      "name": "Nuts & Berries",
+      "category": "Alcohol",
+      "subcategory": "Shooters",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 400,
+      "variants": [
+        {
+          "name": "Shot",
+          "price": 400
+        }
+      ]
+    },
+    {
+      "id": "AL027",
+      "name": "Jager Bomb",
+      "category": "Alcohol",
+      "subcategory": "Shooters",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 400,
+      "variants": [
+        {
+          "name": "Shot",
+          "price": 400
+        }
+      ]
+    },
+    {
+      "id": "AL028",
+      "name": "Chandon Brut",
+      "category": "Alcohol",
+      "subcategory": "Champagne / Sparkling Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 4500,
+      "variants": [
+        {
+          "name": "Bottle",
+          "price": 4500
+        }
+      ]
+    },
+    {
+      "id": "AL029",
+      "name": "Chandon Rose",
+      "category": "Alcohol",
+      "subcategory": "Champagne / Sparkling Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 4500,
+      "variants": [
+        {
+          "name": "Bottle",
+          "price": 4500
+        }
+      ]
+    },
+    {
+      "id": "AL030",
+      "name": "Moet & Chandon Imperial Brut",
+      "category": "Alcohol",
+      "subcategory": "Champagne / Sparkling Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 13500,
+      "variants": [
+        {
+          "name": "Bottle",
+          "price": 13500
+        }
+      ]
+    },
+    {
+      "id": "AL031",
+      "name": "Moet & Chandon Imperial Rose",
+      "category": "Alcohol",
+      "subcategory": "Champagne / Sparkling Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 25000,
+      "variants": [
+        {
+          "name": "Bottle",
+          "price": 25000
+        }
+      ]
+    },
+    {
+      "id": "AL032",
+      "name": "Bottega Gold Prosecco",
+      "category": "Alcohol",
+      "subcategory": "Champagne / Sparkling Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 14500,
+      "variants": [
+        {
+          "name": "Bottle",
+          "price": 14500
+        }
+      ]
+    },
+    {
+      "id": "AL033",
+      "name": "Dom Perignon",
+      "category": "Alcohol",
+      "subcategory": "Champagne / Sparkling Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 54000,
+      "variants": [
+        {
+          "name": "Bottle",
+          "price": 54000
+        }
+      ]
+    },
+    {
+      "id": "AL034",
+      "name": "Absolut Flavour",
+      "category": "Alcohol",
+      "subcategory": "Imported Vodka",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 175,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 175
+        },
+        {
+          "name": "Bottle",
+          "price": 3000
+        }
+      ]
+    },
+    {
+      "id": "AL035",
+      "name": "Ciroc",
+      "category": "Alcohol",
+      "subcategory": "Imported Vodka",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 320,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 320
+        },
+        {
+          "name": "Bottle",
+          "price": 6500
+        }
+      ]
+    },
+    {
+      "id": "AL036",
+      "name": "Grey Goose / VX",
+      "category": "Alcohol",
+      "subcategory": "Imported Vodka",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 345,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 345
+        },
+        {
+          "name": "Bottle",
+          "price": 6800
+        }
+      ]
+    },
+    {
+      "id": "AL037",
+      "name": "Belvedere",
+      "category": "Alcohol",
+      "subcategory": "Imported Vodka",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 375,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 375
+        },
+        {
+          "name": "Bottle",
+          "price": 7500
+        }
+      ]
+    },
+    {
+      "id": "AL038",
+      "name": "Beluga Noble / Gold Line",
+      "category": "Alcohol",
+      "subcategory": "Imported Vodka",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 550,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 550
+        },
+        {
+          "name": "Bottle",
+          "price": 11000
+        }
+      ]
+    },
+    {
+      "id": "AL039",
+      "name": "Jameson",
+      "category": "Alcohol",
+      "subcategory": "Canadian / Irish / Bourbon / Tennessee",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 180,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 180
+        },
+        {
+          "name": "Bottle",
+          "price": 3800
+        }
+      ]
+    },
+    {
+      "id": "AL040",
+      "name": "Jim Beam",
+      "category": "Alcohol",
+      "subcategory": "Canadian / Irish / Bourbon / Tennessee",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 190,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 190
+        },
+        {
+          "name": "Bottle",
+          "price": 3800
+        }
+      ]
+    },
+    {
+      "id": "AL041",
+      "name": "Jack Daniel's No.7 / Honey",
+      "category": "Alcohol",
+      "subcategory": "Canadian / Irish / Bourbon / Tennessee",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 727,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 727
+        },
+        {
+          "name": "Bottle",
+          "price": 5100
+        }
+      ]
+    },
+    {
+      "id": "AL042",
+      "name": "Ballantine Finest",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 170,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 170
+        },
+        {
+          "name": "Bottle",
+          "price": 3500
+        }
+      ]
+    },
+    {
+      "id": "AL043",
+      "name": "J W Red Label",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 170,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 170
+        },
+        {
+          "name": "Bottle",
+          "price": 3500
+        }
+      ]
+    },
+    {
+      "id": "AL044",
+      "name": "Monkey Shoulder",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 500,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 500
+        },
+        {
+          "name": "Bottle",
+          "price": 10500
+        }
+      ]
+    },
+    {
+      "id": "AL045",
+      "name": "Chivas Regal",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 350,
+      "variants": [
+        {
+          "name": "30ML 12YRS",
+          "price": 350
+        },
+        {
+          "name": "30ML XV",
+          "price": 580
+        },
+        {
+          "name": "30ML 18YRS",
+          "price": 730
+        },
+        {
+          "name": "Bottle 12YRS",
+          "price": 7300
+        },
+        {
+          "name": "Bottle XV",
+          "price": 12000
+        },
+        {
+          "name": "Bottle 18YRS",
+          "price": 15000
+        }
+      ]
+    },
+    {
+      "id": "AL046",
+      "name": "Johnnie Walker Black Label",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 350,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 350
+        },
+        {
+          "name": "Bottle",
+          "price": 7300
+        }
+      ]
+    },
+    {
+      "id": "AL047",
+      "name": "Johnnie Walker Double Black",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 440,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 440
+        },
+        {
+          "name": "Bottle",
+          "price": 9000
+        }
+      ]
+    },
+    {
+      "id": "AL048",
+      "name": "Johnnie Walker Gold Label",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 580,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 580
+        },
+        {
+          "name": "Bottle",
+          "price": 12000
+        }
+      ]
+    },
+    {
+      "id": "AL049",
+      "name": "Johnnie Walker Blue Label",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 2000,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 2000
+        },
+        {
+          "name": "Bottle",
+          "price": 33000
+        }
+      ]
+    },
+    {
+      "id": "AL050",
+      "name": "Royal Salute 18 YO",
+      "category": "Alcohol",
+      "subcategory": "Blended Whisky",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 1600,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 1600
+        },
+        {
+          "name": "Bottle",
+          "price": 28000
+        }
+      ]
+    },
+    {
+      "id": "AL051",
+      "name": "Talisker 10 YRS",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 450,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 450
+        },
+        {
+          "name": "Bottle",
+          "price": 10000
+        }
+      ]
+    },
+    {
+      "id": "AL052",
+      "name": "Laphroaig",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 470,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 470
+        },
+        {
+          "name": "Bottle",
+          "price": 9500
+        }
+      ]
+    },
+    {
+      "id": "AL053",
+      "name": "Glenmorangie Original",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 480,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 480
+        },
+        {
+          "name": "Bottle",
+          "price": 9600
+        }
+      ]
+    },
+    {
+      "id": "AL054",
+      "name": "Glenlivet",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 370,
+      "variants": [
+        {
+          "name": "30ML 12YO",
+          "price": 370
+        },
+        {
+          "name": "30ML 15YO",
+          "price": 520
+        },
+        {
+          "name": "30ML 18YO",
+          "price": 795
+        },
+        {
+          "name": "Bottle 12YO",
+          "price": 7500
+        },
+        {
+          "name": "Bottle 15YO",
+          "price": 10500
+        },
+        {
+          "name": "Bottle 18YO",
+          "price": 16000
+        }
+      ]
+    },
+    {
+      "id": "AL055",
+      "name": "Glenfiddich",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 385,
+      "variants": [
+        {
+          "name": "30ML 12YO",
+          "price": 385
+        },
+        {
+          "name": "30ML 15YO",
+          "price": 620
+        },
+        {
+          "name": "30ML 18YO",
+          "price": 820
+        },
+        {
+          "name": "Bottle 12YO",
+          "price": 7700
+        },
+        {
+          "name": "Bottle 15YO",
+          "price": 12500
+        },
+        {
+          "name": "Bottle 18YO",
+          "price": 16400
+        }
+      ]
+    },
+    {
+      "id": "AL056",
+      "name": "Singleton 12YO",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 350,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 350
+        },
+        {
+          "name": "Bottle",
+          "price": 7000
+        }
+      ]
+    },
+    {
+      "id": "AL057",
+      "name": "Yamazaki",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 1200,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 1200
+        },
+        {
+          "name": "Bottle",
+          "price": 24000
+        }
+      ]
+    },
+    {
+      "id": "AL058",
+      "name": "Hibiki",
+      "category": "Alcohol",
+      "subcategory": "Single Malt",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 1200,
+      "variants": [
+        {
+          "name": "30ML",
+          "price": 1200
+        },
+        {
+          "name": "Bottle",
+          "price": 24000
+        }
+      ]
+    },
+    {
+      "id": "CK001",
+      "name": "Negroni",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Gin, Campari, sweet vermouth",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 500,
+      "variants": []
+    },
+    {
+      "id": "CK002",
+      "name": "Tom Collins",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Gin, lemon juice, sugar & soda water",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CK003",
+      "name": "Whiskey Sour",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Bourbon, lemon juice, simple syrup, egg white & bitters",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 250,
+      "variants": []
+    },
+    {
+      "id": "CK004",
+      "name": "Old Fashioned",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Bourbon, sugar cube & bitters",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 225,
+      "variants": []
+    },
+    {
+      "id": "CK005",
+      "name": "Side Car",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Cognac, triple sec, lemon juice",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 300,
+      "variants": []
+    },
+    {
+      "id": "CK006",
+      "name": "The LIIT",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Vodka, rum, gin, tequila, triple sec, lime juice & cola",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 400,
+      "variants": []
+    },
+    {
+      "id": "CK007",
+      "name": "Daiquiri",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "White rum, lemon juice, simple syrup",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 200,
+      "variants": []
+    },
+    {
+      "id": "CK008",
+      "name": "Bloody Mary",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Vodka and house Bloody Mary mix",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 225,
+      "variants": []
+    },
+    {
+      "id": "CK009",
+      "name": "Margarita",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Tequila, triple sec, lime juice",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 200,
+      "variants": []
+    },
+    {
+      "id": "CK010",
+      "name": "Thai Mojito",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "White rum, lime juice, mint leaves, sugar & soda, Thai ginger, lemongrass",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 200,
+      "variants": []
+    },
+    {
+      "id": "CK011",
+      "name": "Martini",
+      "category": "Alcohol",
+      "subcategory": "Cocktails",
+      "description": "Gin, dry vermouth",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": 300,
+      "variants": []
+    },
+    {
+      "id": "SG001",
+      "name": "Peach & Apricot Sangria",
+      "category": "Alcohol",
+      "subcategory": "Sangria",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Glass",
+          "price": 650
+        },
+        {
+          "name": "Pitcher",
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": "SG002",
+      "name": "Pomme Basil Sangria",
+      "category": "Alcohol",
+      "subcategory": "Sangria",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Glass",
+          "price": 650
+        },
+        {
+          "name": "Pitcher",
+          "price": 2200
+        }
+      ]
+    },
+    {
+      "id": "SG003",
+      "name": "Classic White Wine Sangria",
+      "category": "Alcohol",
+      "subcategory": "Sangria",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Glass",
+          "price": 600
+        },
+        {
+          "name": "Pitcher",
+          "price": 2000
+        }
+      ]
+    },
+    {
+      "id": "SG004",
+      "name": "Classic Red Wine Sangria",
+      "category": "Alcohol",
+      "subcategory": "Sangria",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Glass",
+          "price": 600
+        },
+        {
+          "name": "Pitcher",
+          "price": 2000
+        }
+      ]
+    },
+    {
+      "id": "WI001",
+      "name": "Sula",
+      "category": "Alcohol",
+      "subcategory": "Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Red Glass",
+          "price": 340
+        },
+        {
+          "name": "White Glass",
+          "price": 330
+        },
+        {
+          "name": "Rose Glass",
+          "price": 270
+        },
+        {
+          "name": "Red Bottle",
+          "price": 1700
+        },
+        {
+          "name": "White Bottle",
+          "price": 1700
+        },
+        {
+          "name": "Rose Bottle",
+          "price": 1700
+        }
+      ]
+    },
+    {
+      "id": "WI002",
+      "name": "Jacob",
+      "category": "Alcohol",
+      "subcategory": "Wine",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Red Glass",
+          "price": 470
+        },
+        {
+          "name": "White Glass",
+          "price": 480
+        },
+        {
+          "name": "Rose Glass",
+          "price": 480
+        },
+        {
+          "name": "Red Bottle",
+          "price": 2500
+        },
+        {
+          "name": "White Bottle",
+          "price": 2500
+        },
+        {
+          "name": "Rose Bottle",
+          "price": 2500
+        }
+      ]
+    },
+    {
+      "id": "BE001",
+      "name": "Budweiser",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 210
+        },
+        {
+          "name": "Bucket",
+          "price": 840
+        }
+      ]
+    },
+    {
+      "id": "BE002",
+      "name": "Kingfisher Ultra",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 210
+        },
+        {
+          "name": "Bucket",
+          "price": 880
+        }
+      ]
+    },
+    {
+      "id": "BE003",
+      "name": "Kingfisher Witbier",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 290
+        },
+        {
+          "name": "Bucket",
+          "price": 1160
+        }
+      ]
+    },
+    {
+      "id": "BE004",
+      "name": "Heineken",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 275
+        },
+        {
+          "name": "Bucket",
+          "price": 1100
+        }
+      ]
+    },
+    {
+      "id": "BE005",
+      "name": "Bira White",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 275
+        },
+        {
+          "name": "Bucket",
+          "price": 1100
+        }
+      ]
+    },
+    {
+      "id": "BE006",
+      "name": "Bira Blond",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 200
+        },
+        {
+          "name": "Bucket",
+          "price": 800
+        }
+      ]
+    },
+    {
+      "id": "BE007",
+      "name": "Kati Patang Amber Ale",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 360
+        },
+        {
+          "name": "Bucket",
+          "price": 1450
+        }
+      ]
+    },
+    {
+      "id": "BE008",
+      "name": "Kati Patang Wheat",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 360
+        },
+        {
+          "name": "Bucket",
+          "price": 1450
+        }
+      ]
+    },
+    {
+      "id": "BE009",
+      "name": "Stella Artois",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 430
+        },
+        {
+          "name": "Bucket",
+          "price": 1700
+        }
+      ]
+    },
+    {
+      "id": "BE010",
+      "name": "Erdinger",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 430
+        },
+        {
+          "name": "Bucket",
+          "price": 1700
+        }
+      ]
+    },
+    {
+      "id": "BE011",
+      "name": "Hopper",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 390
+        },
+        {
+          "name": "Bucket",
+          "price": 1560
+        }
+      ]
+    },
+    {
+      "id": "BE012",
+      "name": "Corona",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 390
+        },
+        {
+          "name": "Bucket",
+          "price": 1600
+        }
+      ]
+    },
+    {
+      "id": "BE013",
+      "name": "Breezer",
+      "category": "Alcohol",
+      "subcategory": "Beers & Breezers",
+      "description": "",
+      "vegetarian": null,
+      "alcoholic": true,
+      "base_price": null,
+      "variants": [
+        {
+          "name": "Pint",
+          "price": 250
+        },
+        {
+          "name": "Bucket",
+          "price": 1000
+        }
+      ]
+    }
+  ]
+}
