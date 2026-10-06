@@ -1,0 +1,25 @@
+[
+    {
+        "order_id": "UB-20261007-7069",
+        "restaurant": "UrbanBite",
+        "items": [
+            {
+                "item_id": "CK004",
+                "name": "Old Fashioned",
+                "quantity": 2,
+                "unit_price": 225,
+                "variant": null,
+                "modifiers": [],
+                "alcoholic": true
+            }
+        ],
+        "item_count": 2,
+        "subtotal": 450,
+        "tax_rate": 0.05,
+        "tax": 22.5,
+        "total": 472.5,
+        "contains_alcohol": true,
+        "age_verified": true,
+        "confirmed_at": "07 Oct 2026, 01:43 AM"
+    }
+]
